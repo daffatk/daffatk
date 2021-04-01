@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @_drfauzan
+- 👀 I’m interested in AI 
+- 🌱 I’m currently learning Python and MatLab
+- 💞️ I’m looking to collaborate w/ everyone
